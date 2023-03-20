@@ -1,0 +1,13 @@
+<template>
+<div>Adminpage</div>
+</template>
+
+<script>
+export default {
+  name: "AdminPage"
+}
+</script>
+
+<style scoped>
+
+</style>
